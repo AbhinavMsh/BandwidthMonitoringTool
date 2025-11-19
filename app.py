@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from datetime import datetime
 
 st.set_page_config(page_title="Bandwidth Monitor", layout="wide")
-st.title("📶 Real-Time Bandwidth Monitor")
+st.title("Real-Time Bandwidth Monitor")
 
 WINDOW = 50  # rolling window size
 

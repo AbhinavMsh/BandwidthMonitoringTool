@@ -23,7 +23,7 @@ BandwidthMonitoringTool/
 │
 ├── app.py                # Streamlit dashboard
 ├── bandwidth.py          # Packet capture and bandwidth calculation logic
-└── __pycache__/          # Auto-generated folder
+
 ```
 
 ---
